@@ -1,6 +1,8 @@
+---
 layout: page
 title: "С.К. Дометкин"
 permalink: /bio/
+---
 
 Привет.
 
