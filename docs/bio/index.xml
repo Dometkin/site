@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>С.К. Дометкин</title>
-    <link>http://example.org/bio/</link>
+    <link>https://dometkin.ru/bio/</link>
     <description>Recent content on С.К. Дометкин</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Aug 2021 19:02:13 +0300</lastBuildDate><atom:link href="http://example.org/bio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Aug 2021 19:02:13 +0300</lastBuildDate><atom:link href="https://dometkin.ru/bio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
