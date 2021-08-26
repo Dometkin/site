@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "С.К. Дометкин"
-permalink: /about/
+permalink: /bio/
 ---
 
 Привет.
