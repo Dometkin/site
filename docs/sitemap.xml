@@ -2,35 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dometkin.ru/</loc>
-    <lastmod>2021-08-26T17:47:11+01:00</lastmod>
-    <priority>0</priority>
-  </url><url>
     <loc>https://dometkin.ru/blog/</loc>
-    <lastmod>2021-08-26T17:47:11+01:00</lastmod>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://dometkin.ru/category/blog/</loc>
-    <lastmod>2021-08-26T17:47:11+01:00</lastmod>
-  </url><url>
-    <loc>https://dometkin.ru/category/</loc>
-    <lastmod>2021-08-26T17:47:11+01:00</lastmod>
-  </url><url>
-    <loc>https://dometkin.ru/blog/blog/210826/</loc>
-    <lastmod>2021-08-26T17:47:11+01:00</lastmod>
-  </url><url>
-    <loc>https://dometkin.ru/blog/blog/210826/</loc>
     <lastmod>2021-08-26T17:47:11+01:00</lastmod>
   </url><url>
     <loc>https://dometkin.ru/tag/</loc>
     <lastmod>2021-08-26T17:47:11+01:00</lastmod>
   </url><url>
-    <loc>https://dometkin.ru/tag/%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/</loc>
+    <loc>https://dometkin.ru/</loc>
     <lastmod>2021-08-26T17:47:11+01:00</lastmod>
   </url><url>
-    <loc>https://dometkin.ru/bio/</loc>
-    <lastmod>2021-08-26T19:02:13+03:00</lastmod>
-    <priority>0</priority>
+    <loc>https://dometkin.ru/blog/20210826-boring/</loc>
+    <lastmod>2021-08-26T17:47:11+01:00</lastmod>
+  </url><url>
+    <loc>https://dometkin.ru/tag/%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/</loc>
+    <lastmod>2021-08-26T17:47:11+01:00</lastmod>
   </url><url>
     <loc>https://dometkin.ru/bio/about/</loc>
     <lastmod>2021-08-26T19:02:13+03:00</lastmod>
@@ -38,10 +23,13 @@
     <loc>https://dometkin.ru/tag/about/</loc>
     <lastmod>2021-08-26T19:02:13+03:00</lastmod>
   </url><url>
-    <loc>https://dometkin.ru/category/bio/</loc>
+    <loc>https://dometkin.ru/bio/</loc>
     <lastmod>2021-08-26T19:02:13+03:00</lastmod>
   </url><url>
-    <loc>https://dometkin.ru/blog/blog/test/</loc>
-    <lastmod>2021-08-21T19:02:13+03:00</lastmod>
+    <loc>https://dometkin.ru/blog/20210826-chair/</loc>
+    <lastmod>2021-08-26T16:02:13+03:00</lastmod>
+  </url><url>
+    <loc>https://dometkin.ru/blog/20210825-responsibility/</loc>
+    <lastmod>2021-08-25T17:47:11+01:00</lastmod>
   </url>
 </urlset>
